@@ -5,7 +5,7 @@ A epic games lookup tool for different sites aswell.
 ```pip install pystyle, requests, re```
 
 ## Preview
-![preview](https://github.com/scarlmao/justify/blob/main/image.png)
+![preview](https://github.com/scarlmao/OwnSec/blob/main/image.png)
 
 ## Star History
 
