@@ -1,5 +1,5 @@
 # OwnSec
-A epic games lookup tool for different sites aswell.
+A epic games lookup osint tool for different sites aswell.
 
 ## Installation
 ```pip install pystyle, requests, re```
