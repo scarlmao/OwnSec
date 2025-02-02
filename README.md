@@ -9,5 +9,5 @@ A epic games lookup osint tool for different sites aswell.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=scarlmao/justify&type=Date)](https://star-history.com/#scarlmao/OwnSec&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=scarlmao/OwnSec&type=Date)](https://star-history.com/#scarlmao/OwnSec&Date)
 
