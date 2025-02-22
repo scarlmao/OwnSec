@@ -1,5 +1,6 @@
 # OwnSec
 A epic games lookup osint tool for different sites aswell.
+WARNING: i will no longer be working on this project, thank you.
 
 ## Installation
 ```pip install pystyle, requests, re```
