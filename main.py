@@ -4,10 +4,8 @@ from pystyle import Colors, Colorate
 
 def main():
  
- URL = "https://api.proswapper.xyz"
  usernames = []
  epicid = []
- platforms = ["youtube", "tiktok", "reddit", "twitch", "spotify"]
  sites = ["https://github.com/", "https://soundcloud.com/", "https://steam.com"]
  pfps = []
  emails = []
