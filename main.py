@@ -9,6 +9,7 @@ def main():
  sites = ["https://github.com/", "https://soundcloud.com/", "https://steam.com"]
  pfps = []
  emails = []
+ URL = "https://api.proswapper.xyz"
 
  print(Colorate.Horizontal(Colors.white_to_black, """
 ░█████╗░░██╗░░░░░░░██╗███╗░░██╗░██████╗███████╗░█████╗░
@@ -18,7 +19,6 @@ def main():
 ╚█████╔╝░░╚██╔╝░╚██╔╝░██║░░███║██████╔╝███████╗╚█████╔╝
 ░╚════╝░░░░╚═╝░░░╚═╝░░╚═╝░░╚══╝╚═════╝░╚══════╝░╚════╝░"""))
  user = input(Colorate.Horizontal(Colors.white_to_black, "Username: "))
-
  NEWURL = URL + "/external/name/" + user
  response = requests.request("GET", NEWURL, timeout=10)
  result = response.json()
